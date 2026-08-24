@@ -240,6 +240,7 @@ ul.cyber-list li,
 }
 
 .data-table {
+    width: 100%;
     table-layout: fixed;
 }
 
@@ -248,12 +249,12 @@ ul.cyber-list li,
 }
 
 .data-table td.label {
-    width: 38%;
+    width: 40%;
     padding-right: 8px;
 }
 
 .data-table td.value {
-    width: 62%;
+    width: 60%;
 }
 
 @media (max-width: 600px) {
@@ -272,7 +273,6 @@ ul.cyber-list li,
     .terminal-bar {
         padding: 8px 10px;
         margin-bottom: 20px;
-        gap: 2px;
     }
 
     .terminal-title {
@@ -319,6 +319,7 @@ ul.cyber-list li,
         width: 100%;
     }
 
+    /* Data pribadi: 20% lebih kecil dari versi sebelumnya */
     .data-table td {
         font-size: 8.7px;
         line-height: 1.4;
