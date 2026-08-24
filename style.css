@@ -320,9 +320,9 @@ ul.cyber-list li,
     }
 
     .data-table td {
-        font-size: 10.9px;
-        line-height: 1.45;
-        padding: 4px 0;
+        font-size: 8.7px;
+        line-height: 1.4;
+        padding: 3px 0;
     }
 
     .data-table td.label {
@@ -376,7 +376,7 @@ ul.cyber-list li,
     }
 
     .data-table td {
-        font-size: 10px;
+        font-size: 8px;
     }
 
     ul.cyber-list li {
